@@ -158,16 +158,59 @@ https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_m
 ### 37 xhamster.com 1.41B
 - js框架 AMP
 - js库 core-js
-### 38 nytimes.com 
-### 39 fandom.com 
-### 40 tiktok.com 
-### 41 indeed.com 
-### 42 twitch.tv 
-### 43 usps.com 
-### 44 hulu.com 
-### 45 t-mobile.com 
-### 46 paypal.com 
-### 47 quora.com 
+### 38 nytimes.com 320M
+- js框架 Emotion,React,Svelte
+- js库 core-js,Boomerang
+- 广告 Google Publisher Tag,Amazon Advertising
+- Web服务器 Nginx
+### 39 fandom.com 750M
+- 广告 OpenX,AppNexus,Prebid,Google Publisher Tag,DoubleClick for Publishers
+- js库 jQUery 3.4.1,core-js
+- 缓存 Varnish
+### 40 tiktok.com 1.37B (douyin.com 30M) 
+- js框架 React
+- js库 Lodash,core-js
+- Web服务器 Tengine
+### 41 indeed.com  600M
+- Web服务器 Nginx
+- js库 MobX,core-js
+- js框架 Emotion React
+- 反向代理 Nginx
+### 42 twitch.tv 1.25B
+- js框架 React
+- js库 web-vitals,core-js,Apollo
+- 编程语言 TypeScript,GraphQL
+- 广告 Amazon Advertising
+### 43 usps.com 250M
+- js库 core-js,jQuery 3.5.1
+- js框架 RequireJS
+- UI Bootstrap 4.3.1
+- 广告 Pinterest Ads,Snap Pixel,Twitter Ads,Reddit Ads,Microsoft Advertising
+### 44 hulu.com 200M
+- js框架 React
+- js库 core-js,Polyfill,
+- 广告 Snap Pixel,theTradeDesk,Microsoft Advertising
+- Web框架 Next.js
+- 反向代理 Envoy
+- 编程语言 Node.js
+### 45 t-mobile.com  200M
+- js库 web-vitals Moment.js,Lodash,jQuery 1.11.3,Hammer.js,core-js,Modernizr
+- js框架 Angular,Zone.js
+- UI Bootstrap 3.3.7
+- 反向代理 Nginx
+- 编程语言 Java TypeScript
+- 广告 Twitter Ads,Snap Pixel,Microsoft Advertising.
+### 46 paypal.com 600M
+- js框架 React
+- js库 Lodash
+- 支付处理 PayPal
+### 47 quora.com 600M 
+- js框架 React
+- Web服务器 Nginx
+- 缓存 Varnish
 ### 48 target.com 
-### 49 imdb.com 
-### 50 microsoft.com
+### 49 imdb.com 500M
+- js框架 React
+### 50 microsoft.com 1B
+- js框架 RequireJS
+- js库 jQuery 3.5.1
