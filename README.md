@@ -94,21 +94,70 @@ https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_m
 - 编程语言 Node.js
 - Web框架 Next.js
 ### 22 linkedin.com 
-### 23 bing.com 
-### 24 zoom.us 
+- 编程语言 Java
+### 23 bing.com 1.11B
+- js库 Preact
+### 24 zoom.us 1.97B
+- 实时聊天 Ada
+- js框架 Vue.js
+- js库 Preact,core-js,jQuery
+- UI框架 Bootstrap3.4.1
 ### 25 microsoftonline.com 
-### 26 cnn.com 
-### 27 msn.com 
-### 28 weather.com 
-### 29 accuweather.com 
-### 30 pinterest.com 
-### 31 craigslist.org 
-### 32 roblox.com 
-### 33 worldstar.com 
-### 34 etsy.com 
-### 35 foxnews.com 
-### 36 zillow.com 
-### 37 xhamster.com 
+(访问失败)
+### 26 cnn.com 510.38M
+- 广告 SpotX,Rubicon Project,PubMatic,Index Exchange,AppNexus,Prebid,Outbrain,Criteo,Twitter Ads,Google Publisher Tag,Amazon Advertising
+- js框架 styled-components,React
+- js库 Moment.js jQeury,core-js
+- 缓存 Varnish
+### 27 msn.com 1B
+- Web框架 Microsoft ASP.NET
+- 广告 AppNexus
+- Web服务器 IIS
+- js库 jQuery 2.1.1
+### 28 weather.com 653.55M
+- js库 core-js,Boomerang,Polyfill
+- js框架 React
+- 广告 Amazon Advertising,Prebid,Criteo,Taboola,Rubicon Project Google Publisher Tag
+- 内容分发网络 Akamai
+### 29 accuweather.com 697.56M
+- 广告 Prebid,Google Publisher Tag
+- js库 Boomerang
+### 30 pinterest.com 1B
+- js框架 React
+- js库 core-js
+### 31 craigslist.org 306.05M
+- js库 jQeury UI 1.11.4 jQuery 1.11.3
+### 32 roblox.com 1B
+- js库 jQuery Migrate,jQuery 1.11.1,core-js
+- js框架 React,ANgularJS
+- UI框架 Bootstrap 3.3.5
+### 33 worldstar.com 49.71M
+- 广告 TripleLift,OpenX,District M,AppNexus,LKQD,PubMatic,GumGum,Google Publisher Tag,Amazon Advertising
+- Web服务器 Apache
+- 缓存 Varnish
+- js库 Hammer.js,jQUery Migrate 3.3.2,jQUery 3.5.1,FancyBox 2.1.5
+- UI Bootstrap 4.0.0
+- 数据库 Firebase 8.6.1
+### 34 etsy.com 400M
+- 缓存 Varnish
+- 广告 Pinterest Ads Microsoft Advertising
+- js框架 Hogan.js
+- js库 jQuery 2.2.4
+- UI Bootstrap 2
+- Web服务器 Apache
+- 问题跟踪器 Sentry
+### 35 foxnews.com 300M
+- js库 Howler.js,core-js,Boomerang,Modernizr,Lodash,jQUery
+- 广告 Index Exchange,Taboola,OpenX,AppNexus,Rubicon Project,PubMatic,Prebid,Outbrain,Microsoft Advertising,Goog Publisher Tag,Google AdSense,Criteo,Amazon Advertising
+### 36 zillow.com 300M
+- 编程语言 Node.js
+- 广告 Pinterest Ads,theTradeDesk,Twitter Ads,Posights,Microsoft Advertising.
+- js框架 styled-components,React,
+- js库 core-js
+- Web框架 Next.js
+### 37 xhamster.com 1.41B
+- js框架 AMP
+- js库 core-js
 ### 38 nytimes.com 
 ### 39 fandom.com 
 ### 40 tiktok.com 
