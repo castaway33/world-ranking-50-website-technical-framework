@@ -20,18 +20,38 @@ https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_m
 - 广告 Verizon Media,Rubicon Project,AppNexus,Google AdSense
 
 ### 6 twitter.com 
-
+- 分析 Google Analytics
+- js框架 React
+- js库 core-js
 ### 7 wikipedia.org 
-
+- 编程语言 PHP
+- js库 Moment.js,jQueryUI,jQuery
 ### 8 instagram.com 
-
+- js框架 React
 ### 9 reddit.com 
-
+- js框架 React
+- js库 core-js
+- 编程语言 Python
+- 缓存 Varnish
+- 问题跟踪器 Sentry
+- 广告 Reddit Ads
 ### 10 discord.com 
+- js框架 React
+- js库 Lodash,core-js
 ### 11 xvideos.com 
-### 12 netflix.com 
+- js jQuery,RequireJS
+- Nginx
+- Google Anlytics
+### 12 netflix.com
+- React,jQuery,Bootstrap
+- Zipkin,Envoy
 ### 13 office.com 
+- 编程语言 TypeScript
+- js框架 Zone.js RxJS,React,Angular,
+- js库 core-js,jQuery
 ### 14 pornhub.com 
+- Vue.js jQuery UI,jQuery
+- Nginx
 ### 15 xnxx.com 
 ### 16 ebay.com 
 ### 17 espn.com 
