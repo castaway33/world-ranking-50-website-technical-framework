@@ -208,7 +208,11 @@ https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_m
 - js框架 React
 - Web服务器 Nginx
 - 缓存 Varnish
-### 48 target.com 
+### 48 target.com 200M
+- js库 core-js
+- js框架 React
+- Web服务器 Nginx
+- 广告 Microsoft Advertising,LiveIntent,Index Echange,Google Publisher Tag,DoubleClick for Publishers
 ### 49 imdb.com 500M
 - js框架 React
 ### 50 microsoft.com 1B
