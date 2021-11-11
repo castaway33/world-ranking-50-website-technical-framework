@@ -1,6 +1,8 @@
 统计日期  2021年11日
 
-## 世界排名网站
+> 除了统计世界排名前50的网站，最后还统计了一些知名网站，工具流量工具使用的是SimilarWeb,技术框架检测使用的是Wappalyzer
+
+## 世界排名50网站
 下面是 similarweb 世界排名前 50 的网站
 https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_medium=chrome&utm_content=overview&utm_campaign=country-rank
 
@@ -218,3 +220,38 @@ https://www.similarweb.com/zh/top-websites/united-states/?utm_source=addon&utm_m
 ### 50 microsoft.com 1B
 - js框架 RequireJS
 - js库 jQuery 3.5.1
+
+---
+
+## 知名网站
+### v2ex.com 5M
+- js框架 AMP
+- js库 Select2,jQuery UI 1.12.1,jQuery 3.5.1,Axios
+- 内容分发网络 Cloudflare
+- 分析 Google Analytics
+### github.com 400M
+- 编程语言 Ruby
+- js框架 React
+- Web框架 Ruby onRails
+- js框架 jQuery
+- 移动框架 jQuery-pjax
+- 支付处理 Braintree,Patreon
+### dbouban.com 150M
+- js库 core-js,jQuery 1.8.3
+
+### runoob.com（菜鸟教程） 15M
+- 编程语言 PHP
+- 数据库 Mysql
+- js库 jQuery 2.0.3
+- Web服务器 Tengine
+- 内容管理系统(CMS) WordPress
+
+### bilibili.com 750M
+- js框架 Vue
+- js库 core-js
+- 编程语言 Golang
+
+### weibo.com 200M
+- js库  core-js
+- Web服务器Nginx
+- 编程语言 PHP
