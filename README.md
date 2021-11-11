@@ -4,12 +4,12 @@
 除了统计世界排名前50的网站，最后还统计了一些知名网站，工具流量工具使用的是SimilarWeb,技术框架检测使用的是Wappalyzer
 共 56 个网站，比较关注的框架使用网站个数如下：
 
-jQuery 32 个
-React 27 个
-core-js 28 个
-Nginx 13 个
-Bootstrap 8 个
-Vue 3 个
+- jQuery 32 个
+- React 27 个
+- core-js 28 个
+- Nginx 13 个
+- Bootstrap 8 个
+- Vue 3 个
 
 ## 世界排名50网站
 下面是 similarweb 世界排名前 50 的网站
